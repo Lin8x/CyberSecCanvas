@@ -1,4 +1,4 @@
-<img src="https://github.com/asian-code/CyberSecCanvas/blob/master/images/cyber.png" width="100%" height="100%"><br>
+<p align="center"> <img src="https://github.com/asian-code/CyberSecCanvas/blob/master/images/cyber.png" width="90%" height="90%"> </p> <br>
 ## About class
 <p>we teach little script kiddies how to hack into a bank and steal money from millions of people just for fun.</p>
 <p>lol</p>
