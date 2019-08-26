@@ -2,15 +2,35 @@
 
 <p align="center"> <img src="https://github.com/asian-code/CyberSecCanvas/blob/master/images/cyber.png" width="90%" height="90%"> </p>
 
-## About class
-<p>we teach little script kiddies how to hack into a bank and steal money from millions of people just for fun.</p>
-<p>lol</p>
+## About Us
+<!---
+Hey Dumbass. Theres HISTORY in repositories. *claps*. gg eric. 
+- Description about the club
+- Welcomes newcomers
+- Talks about the foundation and ideas
+
+--->
 
 ## What We Do
 
+
+
+<img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/cyberglow.gif" width="100%" height="5">
+
 ## Documentation
 
-## Contact Me
-<p>My email for you to spam me :  jamez.williams@browardschools.com</p>
+* [How to Join]()
+* [Our Lessons and Files]()
+* [Our Currency Systen]()
+* [Performing Competitions]()
+* [Fundraising]()
+* [Our Club Roles and Staff]()
 
-<img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/cyberimage.gif" width="100%" height="5">
+<img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/cyberglow.gif" width="100%" height="5">
+
+## Contact Me
+<p align="center"> Our Sponser's Email:  jamez.williams@browardschools.com </p>
+
+
+
+<img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/cyberglow.gif" width="100%" height="5">
