@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/cyberglow.gif" width="100%" height="7">
+<img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/cyberwaves.gif" width="100%" height="7">
 
 <p align="center"> <img src="https://github.com/asian-code/CyberSecCanvas/blob/master/images/cyber.png" width="90%" height="90%"> </p>
 
