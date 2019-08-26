@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/cyberwaves.gif" width="100%" height="7">
+<img src="https://github.com/asian-code/CyberSecCanvas/blob/master/images/cyber.png" width="100%" height="6">
 
 <p align="center"> <img src="https://github.com/asian-code/CyberSecCanvas/blob/master/images/cyber.png" width="90%" height="90%"> </p>
 
@@ -11,13 +11,13 @@ Hey Dumbass. Theres HISTORY in repositories. *claps*. gg eric.
 
 --->
 
-<img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/cyberglow.gif" width="100%" height="5">
+<img src="https://github.com/asian-code/CyberSecCanvas/blob/master/images/cyber.png" width="100%" height="6">
 
 ## What We Do
 
 
 
-<img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/cyberglow.gif" width="100%" height="5">
+<img src="https://github.com/asian-code/CyberSecCanvas/blob/master/images/cyber.png" width="100%" height="6">
 
 ## Documentation
 
@@ -28,11 +28,11 @@ Hey Dumbass. Theres HISTORY in repositories. *claps*. gg eric.
 * [Fundraising]()
 * [Our Club Roles and Staff]()
 
-<img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/cyberglow.gif" width="100%" height="5">
+<img src="https://github.com/asian-code/CyberSecCanvas/blob/master/images/cyber.png" width="100%" height="6">
 
 ## Contact Me
 <p align="center"> Our Sponser's Email:  jamez.williams@browardschools.com </p>
 
 
 
-<img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/cyberglow.gif" width="100%" height="5">
+<img src="https://github.com/asian-code/CyberSecCanvas/blob/master/images/cyber.png" width="100%" height="6">
