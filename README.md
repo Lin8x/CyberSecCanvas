@@ -14,10 +14,6 @@ We also have a club: Cyber Security Club. <br>
 Our club was made after Cypress Bay Highschool's involvement of the Cybersecurity FBI Program.
 <br><br>
   
-**How Was This Club Made?**
-  
-This club was founded by Daniel Jalali around the time in December of 2018 along with other passionate people (now/were club officers) such as Nathan Wilk, Ben (lastname), Adam (lastname), Cole (lastname), and Xander Economou. It was fortified with the avail of the sponsor around that time, Dr. Williams. From then on that time, we had expanded and grown into being a club that cares about edifying, investing members into cybersecurity, and competitions.
-<br><br>
 
 **Main Goals Of The Club?**
 
