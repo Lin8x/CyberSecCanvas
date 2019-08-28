@@ -31,7 +31,7 @@ Hey Dumbass. Theres HISTORY in repositories. *claps*. gg eric.
 <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/cyberglow.gif" width="100%" height="6">
 
 ## Contact Me
-<p align="center"> Our Sponser's Email:  jamez.williams@browardschools.com </p>
+<p align="center"> Our Sponser's Email:  <strong>jamez.williams@browardschools.com</strong> </p>
 
 
 <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/cyberglow.gif" width="100%" height="6">
