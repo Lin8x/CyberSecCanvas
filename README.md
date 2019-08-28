@@ -11,7 +11,7 @@
 
 --->
 
-<img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/background.gif" width="100%" height="10">
+<img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/glitchywaves.gif" width="100%" height="10">
 
 <!--- 
 * [How to Join]()
@@ -22,4 +22,4 @@
 * [Our Club Roles and Staff]()
 --->
 
-<img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/background.gif" width="100%" height="10">
+<img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/glitchywaves.gif" width="100%" height="10">
