@@ -6,7 +6,8 @@
 
 **Who Are We?**
 
-We are the [Cypress Bay Highschool (In Broward County)](https://www.browardschools.com/cypressbay) <p align="center">  Cyber Security Club.
+We are the [Cypress Bay Highschool (In Broward County)](https://www.browardschools.com/cypressbay) Cyber Security Club.
+Our club was made after Cypress Bay Highschool's Involvement of the Cybersecurity FBI Program.
   
 **How Was This Club Made?**
   
