@@ -8,7 +8,9 @@
 
 **Who Are We?**
 
-We are the [Cypress Bay Highschool (In Broward County)](https://www.browardschools.com/cypressbay) Cyber Security Club. <br>
+Welcome to one of the first cyber security classes in broward located in [Cypress Bay](). In this class you will focus on becoming an IT professional. This class provides you the training material for you to succeed in many of the [CompTIA]() exams.
+Example: **CompTia A+, CompTia Network+, CompTia Security+**<br>
+We also have a club: Cyber Security Club. <br>
 Our club was made after Cypress Bay Highschool's involvement of the Cybersecurity FBI Program.
 <br><br>
   
