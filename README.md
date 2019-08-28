@@ -22,8 +22,3 @@
 --->
 
 <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/background.gif" width="100%" height="6">
-
-## Contact Me
-<p align="center"> Our Sponser's Email:  jamez.williams@browardschools.com </p>
-
-<img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/background.gif" width="100%" height="6">
