@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/glitchywaves.gif" width="100%" height="10">
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/fundraisingimage.png" width="30%" height="30%"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/fundraisingimage.png" width="50%" height="40%"> </p>
 
 <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/glitchywaves.gif" width="100%" height="10">
