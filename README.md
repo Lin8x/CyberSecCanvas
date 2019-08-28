@@ -15,9 +15,22 @@ Our club was made after Cypress Bay Highschool's involvement of the Cybersecurit
 This club was founded by Daniel J around the time in December of 2018 along with other passionate people (now/were club officers) such as Nathan Wilk, Ben (lastname), Adam (lastname), Cole (lastname), and Xander Eric. It was fortified with the avail of the sponsor around that time, Dr.Williams. From then on that time, we had expanded and grown into being a club that cares about edifying, investing members into cybersecurity, and competitions.
 <br><br>
 
-**Future Ideas For The Club?**
+**Main Goals Of The Club?**
 
 Our main goals for the club is to help students learn and gain a passion for cybersecurity, get involved with competitions, and make the topic of cybersecurity itself more well known for upcomming generations.
+
+We always are hoping to get and expand more on... <br>
+* Innovative and strong club officers to support the club.
+* Smart and dedicated club members/students.
+* Passionate team members for cybersecurity competitions.
+
+**Any Future Ideas For The Club?**
+
+No matter how much time has passed, these will be some of the upcomming ideas/goals for the club itself: <br>
+* Increase our club reach to more students and members who would be willing to join.
+* Expanding competitions to be more wide and spread-out (Global or local, either way, keep expanding to different ones).
+* Getting certifications for club members and officers.
+
 <br><br>
 
 <!--- 
