@@ -16,7 +16,7 @@
 
 <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/glitchywaves.gif" width="100%" height="10">
 
-&nbsp; &nbsp; <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/gettingstartedlogo.JPG" width="10%" height="10%"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/fundraisinglogo.JPG" width="10%" height="10%"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/ourlessonslogo.JPG" width="10%" height="10%"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/ourcompetitionslogo.JPG width="10%" height="10%"> 
+&nbsp; &nbsp; <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/gettingstartedlogo.JPG" width="10%" height="10%"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/fundraisinglogo.JPG" width="10%" height="10%"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/ourlessonslogo.JPG" width="10%" height="10%"> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/ourcompetitionslogo.JPG" width="10%" height="10%"> 
 
 <!--- 
 * [How to Join]()
