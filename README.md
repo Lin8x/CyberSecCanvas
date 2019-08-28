@@ -16,7 +16,7 @@
 
 <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/glitchywaves.gif" width="100%" height="10">
 
-&nbsp; &nbsp; <p> <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/requirementslogo.png"> </p>
+&nbsp; &nbsp; <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/requirementslogo.png">
 
 <!--- 
 * [How to Join]()
