@@ -4,7 +4,7 @@
 
 <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/glitchywaves.gif" width="100%" height="10">
 
-## About Our Fundraising (Change me)
+## <p align="center"> About Our Fundraising (Change me) </p>
 
 **Why Do We Do Fundraising?**
 <br><br>
