@@ -16,8 +16,6 @@
 
 <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/glitchywaves.gif" width="100%" height="10">
 
-|    |    |    |
-| -- |    | -- |
 <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/gettingstartedlogo.JPG" width="10%" height="10%"> | <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/fundraisinglogo.JPG" width="10%" height="10%">
 
 <!--- 
