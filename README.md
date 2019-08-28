@@ -5,7 +5,7 @@
 ## <p align="center"> <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/AboutUsLogoGif.gif" width="20%" height="20%"> </p>
 
 <span style="vertical-align:middle">Test Test</span>
-<img alight="right" src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/glitchywaves.gif" width="20%" height="20%">
+<img align="right" src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/glitchywaves.gif" width="20%" height="20%">
 
 <!--- 
 - Description about the club
