@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://github.com/asian-code/CyberSecCanvas/blob/master/images/cyber.png" width="100%" height="90%"> </p>
 
-## <p align="center"> <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/AboutUsLogoGif.gif" width="100%" height="100%"> </p>
+## <p align="center"> <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/AboutUsLogoGif.gif" width="30%" height="30%"> </p>
 
 <!--- 
 - Description about the club
