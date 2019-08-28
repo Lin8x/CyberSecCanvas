@@ -4,7 +4,7 @@
 
 ## <p align="center"> <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/AboutUsLogoGif.gif" width="20%" height="20%"> </p>
 
-<[ align="center"> 
+<p align="center"> 
 We are the [Cypress Bay Highschool (In Broward County)](https://www.browardschools.com/cypressbay) Cyber Security Club.
 </p>
 
