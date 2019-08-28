@@ -3,7 +3,7 @@
 -->
 <p align="center"> <img src="https://github.com/asian-code/CyberSecCanvas/blob/master/images/cyber.png" width="90%" height="90%"> </p>
 
-## About Us
+## About The Class
 <!---
 Hey Dumbass. Theres HISTORY in repositories. *claps*. gg eric. 
 - Description about the club
