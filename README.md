@@ -23,6 +23,7 @@ We always are hoping to get and expand more on... <br>
 * Innovative and strong club officers to support the club.
 * Smart and dedicated club members/students.
 * Passionate team members for cybersecurity competitions.
+<br><br>
 
 **Any Future Ideas For The Club?**
 
@@ -30,7 +31,6 @@ No matter how much time has passed, these will be some of the upcomming ideas/go
 * Increase our club reach to more students and members who would be willing to join.
 * Expanding competitions to be more wide and spread-out (Global or local, either way, keep expanding to different ones).
 * Getting certifications for club members and officers.
-
 <br><br>
 
 <!--- 
