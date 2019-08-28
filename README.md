@@ -18,7 +18,7 @@
 
 |       |       |       |       |
 | ----- | ----- | ----- | ----- |
-<img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/gettingstartedlogo.JPG" width="10%" height="10%"> | <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/fundraisinglogo.JPG" width="10%" height="10%">
+<img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/gettingstartedlogo.JPG" width="10%" height="10%"> | <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/fundraisinglogo.JPG" width="10%" height="10%"> | <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/fundraisinglogo.JPG" width="10%" height="10%"> | <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/fundraisinglogo.JPG" width="10%" height="10%">
 
 <!--- 
 * [How to Join]()
