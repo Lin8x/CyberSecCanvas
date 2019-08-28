@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/background.gif" width="100%" height="10">
 
-<p align="center"> <img src="https://github.com/asian-code/CyberSecCanvas/blob/master/images/cyber.png" width="90%" height="90%"> </p>
+<p align="center"> <img src="https://github.com/asian-code/CyberSecCanvas/blob/master/images/cyber.png" width="100%" height="90%"> </p>
 
 ## <p align="center"> About Us </p>
 <!--- 
