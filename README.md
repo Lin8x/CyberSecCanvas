@@ -16,6 +16,8 @@
 
 <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/glitchywaves.gif" width="100%" height="10">
 
+<p align="left"> <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/requirementslogo.png" width="15%" height="15"> </p>
+
 <!--- 
 * [How to Join]()
 * [Our Lessons and Files]()
