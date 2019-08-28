@@ -8,14 +8,17 @@
 
 We are the [Cypress Bay Highschool (In Broward County)](https://www.browardschools.com/cypressbay) Cyber Security Club.
 Our club was made after Cypress Bay Highschool's Involvement of the Cybersecurity FBI Program.
+<br>
   
 **How Was This Club Made?**
   
 This club was founded by Daniel J around the time in December of 2018 along with other passionate people (now/were club officers) such as Nathan Wilk, Ben (lastname), Adam (lastname), Cole (lastname), and Xander Eric. It was fortified with the avail of the sponsor around that time, Dr.Williams. From then on that time, we had expanded and grown into being a club that cares about edifying, investing members into cybersecurity, and competitions.
+<br>
 
 **Future Ideas For The Club?**
 
 Our main goals for the club is to help students learn and gain a passion for cybersecurity, get involved with competitions, and make the topic of cybersecurity itself more well known for upcomming generations.
+<br>
 
 <!--- 
 - Description about the club
