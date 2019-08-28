@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/background.gif" width="100%" height="6">
+<img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/background.gif" width="100%" height="10">
 
 <p align="center"> <img src="https://github.com/asian-code/CyberSecCanvas/blob/master/images/cyber.png" width="90%" height="90%"> </p>
 
@@ -23,4 +23,4 @@
 * [Our Club Roles and Staff]()
 --->
 
-<img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/background.gif" width="100%" height="6">
+<img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/background.gif" width="100%" height="10">
