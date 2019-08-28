@@ -4,10 +4,8 @@
 
 ## <p align="center"> <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/AboutUsLogoGif.gif" width="20%" height="20%"> </p>
 
-<div>
-  <img style="vertical-align:middle" src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/glitchywaves.gif">
-  <span style="vertical-align:middle">Test Test</span>
-</div>
+<img alight="right" src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/glitchywaves.gif">
+<span style="vertical-align:middle">Test Test</span>
 
 <!--- 
 - Description about the club
