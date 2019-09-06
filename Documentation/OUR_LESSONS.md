@@ -4,4 +4,6 @@
 
 <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/glitchywaves.gif" width="100%" height="10">
 
+## Our Lessons
+
 <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/glitchywaves.gif" width="100%" height="10">
