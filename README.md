@@ -6,20 +6,20 @@
 
 ## <p align="center"> <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/AboutUsLogoGif.gif" width="20%" height="20%"> </p>
 
-**Who Are We?**
+<b>Who Are We?<b>
 
-Welcome to one of the first cyber security classes in broward located in [Cypress Bay](). In this class you will focus on becoming an IT professional. This class provides you the training material for you to succeed in many of the [CompTIA]() exams.
-Example: **CompTia A+, CompTia Network+, CompTia Security+**<br>
+Welcome to one of the first cyber security classes in broward located in Cypress Bay. In this class you will focus on becoming an IT professional. This class provides you the training material for you to succeed in many of the [CompTIA]() exams.
+Example: <b>CompTia A+, CompTia Network+, CompTia Security+</b><br>
 We also have a club: Cyber Security Club. <br>
 Our club was made after Cypress Bay Highschool's involvement of the Cybersecurity FBI Program.
 <br><br>
 
-**How Was This Club Made?**
+<b>How Was This Club Made?</b>
 
 This club was founded by Daniel Jalali around the time in December of 2018 along with other passionate people (now/were club officers) such as Nathan Wilk, Ben (lastname), Adam (lastname), Cole (lastname), and Xander Economou. It was fortified with the avail of the sponsor around that time, Dr. Williams. From then on that time, we had expanded and grown into being a club that cares about edifying, investing members into cybersecurity, and competitions.
 <br><br>
 
-**Main Goals Of The Club?**
+<b>Main Goals Of The Club?</b>
 
 Our main goals for the club is to help students learn and gain a passion for cybersecurity, get involved with competitions, and make the topic of cybersecurity itself more well known for upcomming generations.
 
@@ -29,7 +29,7 @@ We always are hoping to get and expand more on... <br>
 * Passionate team members for cybersecurity competitions.
 <br><br>
 
-**Any Future Ideas For The Club?**
+<b>Any Future Ideas For The Club?</b>
 
 No matter how much time has passed, these will be some of the upcomming ideas/goals for the club itself: <br>
 * Increase our club reach to more students and members who would be willing to join.
