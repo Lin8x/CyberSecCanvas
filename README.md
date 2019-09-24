@@ -63,17 +63,17 @@ No matter how much time has passed, these will be some of the upcomming ideas/go
 <img src="https://raw.githubusercontent.com/asian-code/CyberSecCanvas/master/images/glitchywaves.gif" width="100%"
     height="10">
 
-<p align="center"> <a href="https://github.com/asian-code/CyberSecCanvas/blob/master/Documentation/GETTING_STARTED.md"> <img
-            src="https://raw.githubusercontent.com/asian-code/CyberSecCanvas/master/images/gettingstartedlogo.JPG"
+<p align="center"> <a href="https://github.com/lin8x/CyberSecCanvas/blob/master/Documentation/GETTING_STARTED.md"> <img
+            src="https://raw.githubusercontent.com/lin8x/CyberSecCanvas/master/images/gettingstartedlogo.JPG"
             width="10%" height="10%"> </a> <a
-        href="https://github.com/asian-code/CyberSecCanvas/blob/master/Documentation/FUNDRAISING.md"> <img
-            src="https://raw.githubusercontent.com/asian-code/CyberSecCanvas/master/images/fundraisinglogo.JPG" width="10%"
+        href="https://github.com/lin8x/CyberSecCanvas/blob/master/Documentation/FUNDRAISING.md"> <img
+            src="https://raw.githubusercontent.com/lin8x/CyberSecCanvas/master/images/fundraisinglogo.JPG" width="10%"
             height="10%"> </a> <a
-        href="https://github.com/asian-code/CyberSecCanvas/blob/master/Documentation/OUR_LESSONS.md"> <img
-            src="https://raw.githubusercontent.com/asian-code/CyberSecCanvas/master/images/ourlessonslogo.JPG" width="10%"
+        href="https://github.com/lin8x/CyberSecCanvas/blob/master/Documentation/OUR_LESSONS.md"> <img
+            src="https://raw.githubusercontent.com/lin8x/CyberSecCanvas/master/images/ourlessonslogo.JPG" width="10%"
             height="10%"> </a> <a
-        href="https://github.com/asian-code/CyberSecCanvas/blob/master/Documentation/COMPETITIONS.md"> <img
-            src="https://raw.githubusercontent.com/asian-code/CyberSecCanvas/master/images/ourcompetitionslogo.JPG"
+        href="https://github.com/lin8x/CyberSecCanvas/blob/master/Documentation/COMPETITIONS.md"> <img
+            src="https://raw.githubusercontent.com/lin8x/CyberSecCanvas/master/images/ourcompetitionslogo.JPG"
             width="10%" height="10%"> </a> </p>
 
 <!--- 
