@@ -1,13 +1,13 @@
-<img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/glitchywaves.gif" width="100%"
+<img src="https://raw.githubusercontent.com/asian-code/CyberSecCanvas/master/images/glitchywaves.gif" width="100%"
     height="10">
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/cyber.gif"
+<p align="center"> <img src="https://raw.githubusercontent.com/asian-code/CyberSecCanvas/master/images/cyber.gif"
         width="100%" height="90%"> </p>
 
-<img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/glitchywaves.gif" width="100%"
+<img src="https://raw.githubusercontent.com/asian-code/CyberSecCanvas/master/images/glitchywaves.gif" width="100%"
     height="10">
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/AboutUsLogoGif.gif"
+<p align="center"> <img src="https://raw.githubusercontent.com/asian-code/CyberSecCanvas/master/images/AboutUsLogoGif.gif"
         width="20%" height="20%"> </p>
 
 <h2>Who Are We?</h3>
@@ -42,7 +42,7 @@ We always are hoping to get and expand more on... <br>
 </ul>
 <br><br>
 
-<h3>Any Future Ideas For The Club?</h3>
+<h2>Any Future Ideas For The Club?</h2>
 
 No matter how much time has passed, these will be some of the upcomming ideas/goals for the club itself: <br>
 <ul>
@@ -60,20 +60,20 @@ No matter how much time has passed, these will be some of the upcomming ideas/go
 
 --->
 
-<img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/glitchywaves.gif" width="100%"
+<img src="https://raw.githubusercontent.com/asian-code/CyberSecCanvas/master/images/glitchywaves.gif" width="100%"
     height="10">
 
-<p align="center"> <a href="https://github.com/Lin8x/CyberSecCanvas/blob/master/Documentation/GETTING_STARTED.md"> <img
-            src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/gettingstartedlogo.JPG"
+<p align="center"> <a href="https://github.com/asian-code/CyberSecCanvas/blob/master/Documentation/GETTING_STARTED.md"> <img
+            src="https://raw.githubusercontent.com/asian-code/CyberSecCanvas/master/images/gettingstartedlogo.JPG"
             width="10%" height="10%"> </a> <a
-        href="https://github.com/Lin8x/CyberSecCanvas/blob/master/Documentation/FUNDRAISING.md"> <img
-            src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/fundraisinglogo.JPG" width="10%"
+        href="https://github.com/asian-code/CyberSecCanvas/blob/master/Documentation/FUNDRAISING.md"> <img
+            src="https://raw.githubusercontent.com/asian-code/CyberSecCanvas/master/images/fundraisinglogo.JPG" width="10%"
             height="10%"> </a> <a
-        href="https://github.com/Lin8x/CyberSecCanvas/blob/master/Documentation/OUR_LESSONS.md"> <img
-            src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/ourlessonslogo.JPG" width="10%"
+        href="https://github.com/asian-code/CyberSecCanvas/blob/master/Documentation/OUR_LESSONS.md"> <img
+            src="https://raw.githubusercontent.com/asian-code/CyberSecCanvas/master/images/ourlessonslogo.JPG" width="10%"
             height="10%"> </a> <a
-        href="https://github.com/Lin8x/CyberSecCanvas/blob/master/Documentation/COMPETITIONS.md"> <img
-            src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/ourcompetitionslogo.JPG"
+        href="https://github.com/asian-code/CyberSecCanvas/blob/master/Documentation/COMPETITIONS.md"> <img
+            src="https://raw.githubusercontent.com/asian-code/CyberSecCanvas/master/images/ourcompetitionslogo.JPG"
             width="10%" height="10%"> </a> </p>
 
 <!--- 
@@ -85,5 +85,5 @@ No matter how much time has passed, these will be some of the upcomming ideas/go
 * [Our Club Roles and Staff]()
 --->
 
-<img src="https://raw.githubusercontent.com/Lin8x/CyberSecCanvas/master/images/glitchywaves.gif" width="100%"
+<img src="https://raw.githubusercontent.com/asian-code/CyberSecCanvas/master/images/glitchywaves.gif" width="100%"
     height="10">
